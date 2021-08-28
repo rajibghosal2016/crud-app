@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "rajib2016ac",
+      "username": "rajibghosal2016@gmail.com",
+      "email": "sipra.misra.1956@gmail.com",
+      "phone": "789456123",
+      "id": 1
+    },
+    {
+      "name": "rajib2016ab",
+      "username": "rajibghosal2016@gmail.com",
+      "email": "sipra.misra.1956@gmail.com",
+      "phone": "789456123",
+      "id": 2
+    }
+  ]
+}
